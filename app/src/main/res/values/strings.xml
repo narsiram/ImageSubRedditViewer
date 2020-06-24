@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImagesSubRedditViewer</string>
+    <string name="list_image">List of images</string>
+</resources>
